@@ -1,2 +1,2 @@
-# Mi_C-vica
+# Mi_Cívica
 Proyecto final
